@@ -2,10 +2,8 @@
 
 spring boot multi module
 
-* demo-db
 * demo-core
 * demo-api
-* demo-web
 
 # How to run
 
@@ -19,5 +17,5 @@ mvn clean install -Dmaven.test.skip -Dcheckstyle.skip
 ```
 
 # Test URL
-- [demo-web](http://localhost:8080/)
+
 - [demo-api](http://localhost:8081/)
